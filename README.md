@@ -15,7 +15,7 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
 
 ### Teaching Assistant
 
-**University of Sherbrooke**, *Sherbrooke, QC, CANADA*
+**University of Sherbrooke**, *Sherbrooke (QC), CANADA*
 (*January - April 2024*)
   - Assisted in the course "Introduction to Programming" by providing guidance to students during hands-on programming labs.
   - Collaborated with students to ensure the successful completion of assignments in the computer labs, fostering a conducive learning environment.
@@ -36,8 +36,8 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
   - Tested strategy games Awalé and Yoté developed by the company for the MAIC (MIFY Artificial Intelligence Context) 2020 edition and provided a report on stability, bugs, and errors in the applications.
   - Implemented artificial intelligence algorithms (MinMax and Alpha-Beta pruning) for the aforementioned strategy games.
   - Proposed and implemented improvements to the games in Python (using the Pygame library), particularly focusing on the graphical interface to enhance the user experience.
----
 
+---
 ## Skills
 
 - **Programming Languages:** Python, R, SQL, C
@@ -46,6 +46,7 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
 - **Artificial Intelligence Libraries:**
   Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, TensorFlow, Keras
 - **Languages:** Fluent in French, English (B1)
+  
 ---
 ## Projects
 `Updating in progress. Coming soon...`
