@@ -3,9 +3,8 @@
 ## Education
 
 ### Master's in Computer Science - AI and Data Science 
-University of Sherbrooke, Faculty of Science, Sherbrooke, QC
-
-*2023 - 2025*
+University of Sherbrooke, Faculty of Science, Sherbrooke (QC), CANADA 
+(*2023 - 2025*)
 
 ### Bachelor's in Modeling and Numerical Simulation Engineering
 UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
@@ -24,8 +23,7 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
 ### Machine Learning and Video Games Intern
 
 **Machine Intelligence For You - MIFY S.A.R.L**, *Abomey-Calavi, BENIN*
-
-  [*August - September 2020*]
+[*August - September 2020*]
   - Tested strategy games Awalé and Yoté developed by the company for the MAIC (MIFY Artificial Intelligence Context) 2020 edition and provided a report on stability, bugs, and errors in the applications.
   - Implemented artificial intelligence algorithms (MinMax and Alpha-Beta pruning) for the aforementioned strategy games.
   - Proposed and implemented improvements to the games in Python (using the Pygame library), particularly focusing on the graphical interface to enhance the user experience.
