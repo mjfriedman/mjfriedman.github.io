@@ -12,6 +12,14 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
 
 ## Professional Experience
 
+### Teaching Assistant
+**University of Sherbrooke**, *Sherbrooke, QC, CANADA*
+[*January - April 2024*]
+
+  - Assisted in the course "Introduction to Programming" by providing guidance to students during hands-on programming labs.
+  - Collaborated with students to ensure the successful completion of assignments in the computer labs, fostering a conducive learning environment.
+  - Conducted thorough reviews and assessments, providing constructive feedback to students on their assignments and examinations.
+
 ### Data Analysis Intern
 
 **Bénin FinTech - BFT S.A.** , *Cotonou, BENIN*
