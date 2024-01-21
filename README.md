@@ -17,9 +17,8 @@ UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abome
 
 **University of Sherbrooke**, *Sherbrooke (QC), CANADA*
 (*January - April 2024*)
-  - Assisted in the course "Introduction to Programming" by providing guidance to students during hands-on programming labs.
-  - Collaborated with students to ensure the successful completion of assignments in the computer labs, fostering a conducive learning environment.
-  - Conducted thorough reviews and assessments, providing constructive feedback to students on their assignments and examinations.
+  - Assist the “Introduction to Programming” course by providing students with advice to help them carry out practical programming laboratories.
+  - Correct students' exams and practical work, particularly in Python.
 
 ### Data Analysis Intern
 
