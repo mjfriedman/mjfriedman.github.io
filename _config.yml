@@ -1,4 +1,5 @@
 title: M. J. Friedman COUTHON
 logo: /img/profile/profil_github-fotor-20240121141214.jpg
-description: "Connect with me on [LinkedIn](https://www.linkedin.com/in/m-j-friedman-couthon/)."
 theme: jekyll-theme-minimal
+social:
+  linkedin: https://www.linkedin.com/in/m-j-friedman-couthon/
