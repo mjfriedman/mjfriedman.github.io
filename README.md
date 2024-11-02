@@ -7,7 +7,7 @@
 [University of Sherbrooke](https://www.usherbrooke.ca/), Faculty of Science, Sherbrooke (QC), CANADA 
 (*2023 - 2024*)
 
-### Bachelor's in Modeling and Numerical Simulation Engineering
+### Engineer's Degree in Applied Mathematics (Modeling and Numerical Simulation)
 [UNSTIM](https://sigunstim.org/), National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
 (*2017 - 2021*)
 
@@ -37,7 +37,7 @@
   - Wrote and presented a report on the survey to the company's board of directors.
   - Modeled and implemented supervised learning models in Python for rating microcredit applicants (credit score) from FECECAM Bénin (another client structure of the company).
 
-### Machine Learning and Video Games Intern
+### Artificial Intelligence Programmer, Intern
 
 **[Machine Intelligence For You (MIFY S.A.R.L)](https://www.linkedin.com/company/mify/)**, *Abomey-Calavi, BENIN*
 (*August - September 2020*)
