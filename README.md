@@ -3,11 +3,11 @@
 ## Education
 
 ### Master's in Computer Science - AI and Data Science 
-University of Sherbrooke, Faculty of Science, Sherbrooke (QC), CANADA 
-(*2023 - 2025*)
+[University of Sherbrooke](https://www.usherbrooke.ca/), Faculty of Science, Sherbrooke (QC), CANADA 
+(*2023 - 2024*)
 
 ### Bachelor's in Modeling and Numerical Simulation Engineering
-UNSTIM, National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
+[UNSTIM](https://sigunstim.org/), National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
 (*2017 - 2021*)
 
 ---
