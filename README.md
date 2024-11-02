@@ -3,11 +3,11 @@
 ---
 ## Education
 
-### Master's in Computer Science - AI and Data Science 
+### Master's in Computer Science - AI and Data Science
 [University of Sherbrooke](https://www.usherbrooke.ca/), Faculty of Science, Sherbrooke (QC), CANADA 
 (*2023 - 2024*)
 
-### Engineer's Degree in Applied Mathematics (Modeling and Numerical Simulation)
+### Engineer's Degree in Applied Mathematics - Modeling and Numerical Simulation
 [UNSTIM](https://sigunstim.org/), National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
 (*2017 - 2021*)
 
