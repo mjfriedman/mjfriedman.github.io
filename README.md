@@ -1,5 +1,5 @@
 # Data Scientist 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/m-j-friedman-couthon/)
+#### Connect with me on [LinkedIn](https://www.linkedin.com/in/m-j-friedman-couthon/)
 ---
 ## Education
 
