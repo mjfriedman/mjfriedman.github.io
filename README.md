@@ -1,4 +1,5 @@
-# Aspiring Data Scientist
+# Data Scientist 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/m-j-friedman-couthon/)
 ---
 ## Education
 
@@ -59,7 +60,7 @@
 Check out some of my work by visiting my [GitHub account](https://github.com/mjfriedman).
 
 ---
-## Personal Qualities
+## Soft Skills
 
 - **Autonomy:** Able to work independently and take initiative.
 - **Curiosity:** A scientific curiosity that drives continuous learning.
