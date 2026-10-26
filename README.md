@@ -14,6 +14,15 @@
 ---
 ## Professional Experience
 
+### Data Analyst
+
+**[Applied Industrial Technologies (AIT Canada)](https://appliedcanada.com/)**, *Quebec, QC, CANADA*
+(*December 2024 – Present*)
+
+  - Develop and maintain dashboards and reporting tools to support business decisions.
+  - Automate data processing and analysis to improve efficiency and reporting reliability.
+  - Collaborate with business teams to optimize inventory management and supply chain operations.
+
 ### Data Analyst, Intern 
 
 **[Applied Industrial Technologies (AIT Canada)](https://appliedcanada.com/)**, *Quebec, QC, CANADA*
