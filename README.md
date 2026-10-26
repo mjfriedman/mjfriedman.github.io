@@ -1,6 +1,7 @@
 ---
 layout: default
 lang: en
+permalink: /
 ---
 
 **English** | [Français]({{ '/fr/' | relative_url }})
