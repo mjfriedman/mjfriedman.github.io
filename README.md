@@ -1,3 +1,11 @@
+---
+layout: default
+lang: en
+---
+
+**English** | [Français]({{ '/fr/' | relative_url }})
+
+
 # Data Scientist 
 #### Connect with me on [LinkedIn](https://www.linkedin.com/in/m-j-friedman-couthon/)
 ---
