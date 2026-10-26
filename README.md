@@ -16,7 +16,7 @@ lang: en
 (*2023 - 2024*)
 
 ### Engineer's Degree in Applied Mathematics - Modeling and Numerical Simulation
-[UNSTIM](https://sigunstim.org/), National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
+[UNSTIM](https://unstim.bj/), National School of Mathematical and Modeling Engineering (ENSGMM), Abomey, BENIN
 (*2017 - 2021*)
 
 ---
